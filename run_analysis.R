@@ -37,8 +37,6 @@ X_data <- rbind(X_train, X_test)
 # The features data.frame contains column names
 # According to features_info.txt
 #     mean() : Mean value
-
-
 #     std() : Standard deviation
 #
 # Note that there are some other references to "mean" such as meanFreq() and
